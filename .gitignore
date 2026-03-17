@@ -1,0 +1,35 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Checkpoints and models
+qcd_checkpoints/
+qed_checkpoints/
+*.pt
+*.safetensors
+*.bin
+*.pth
+
+# Data
+data/
+task1_preprocessing/
+*.csv
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# Documents
+*.docx
+proposal_text.txt

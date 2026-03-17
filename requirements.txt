@@ -1,0 +1,9 @@
+# ML4SCI SYMBA - GSoC 2026 Core Requirements
+accelerate>=0.26.0
+transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+nltk
